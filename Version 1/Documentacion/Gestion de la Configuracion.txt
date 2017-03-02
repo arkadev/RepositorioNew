@@ -1,0 +1,6 @@
+1. Se utilizó la página web https://bmfiddle.com para la creación del canvas
+2. Para la creación de las historias de usuario se diseño una tabla en Word 2016. Archivo llamado Historias de Usuario
+3. Para el prototipado se utilizó el programa justinmind prototyper 7.7.0 (Version Escritorio)
+4. Para el modelado de la base de datos se uso Workbench 6.3
+5. Servidor local Xampp
+6. El diagrama de clases y despliegue se trabajo con la página web https://www.draw.io
