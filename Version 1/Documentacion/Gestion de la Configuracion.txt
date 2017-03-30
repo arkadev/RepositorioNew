@@ -4,3 +4,9 @@
 4. Para el modelado de la base de datos se uso Workbench 6.3
 5. Servidor local Xampp
 6. El diagrama de clases y despliegue se trabajo con la página web https://www.draw.io
+7. Para el front end se utilizó Bootstrap 3.
+8. PHP versión 5.6
+9. La Base de datos fue construida con MySQL versión 5.1
+10. Para la parte de Back end se trabajó con el Framework CodeIgniter 3.1.3.
+
+
