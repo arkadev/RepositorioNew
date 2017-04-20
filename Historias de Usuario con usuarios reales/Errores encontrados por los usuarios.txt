@@ -1,0 +1,8 @@
+-	Error al presionar enter Cuando se está creando el equipo que participará en el torneo y se presiona la tecla Enter genera un error.
+-	Falta distribución en el banner superior, El banner superior no está bien distribuido entre las páginas y en una no aparece.
+-	Error en información página principal, En la sección de servicios, clientes y contactos, el texto no está bien distribuido y además permite su edición.
+-	No funciona el ítem regresar menú equipos, No funciona el ítem Regresar, en la ventana de agregar equipos.
+-	Error en el torneo, En la página de torneo, hay un ítem en el menú, el cual es crear torneo, un ítem que no debería estar en esta ventana ya que el torneo ya está creado
+-	Falta validar crear equipo, No se está validando el campo del nombre de equipo.
+-	Se permite agregar torneos con los campos vacíos, Al agregar un torneo no se están validando los campos
+-	Error en el menú inicial de la aplicación, El titulo no funciona ninguna opción del mismo
